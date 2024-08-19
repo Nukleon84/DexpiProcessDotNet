@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DEXPIProcessDotNet", "DEXPIProcessDotNet\DEXPIProcessDotNet.csproj", "{69A59FFD-DD00-40E4-83D9-B4E5B0941DF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workbench", "Workbench\Workbench.csproj", "{980D9040-7D49-4F15-A654-70CCF96EB57C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69A59FFD-DD00-40E4-83D9-B4E5B0941DF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A59FFD-DD00-40E4-83D9-B4E5B0941DF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A59FFD-DD00-40E4-83D9-B4E5B0941DF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A59FFD-DD00-40E4-83D9-B4E5B0941DF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{980D9040-7D49-4F15-A654-70CCF96EB57C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{980D9040-7D49-4F15-A654-70CCF96EB57C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{980D9040-7D49-4F15-A654-70CCF96EB57C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{980D9040-7D49-4F15-A654-70CCF96EB57C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F98861D-5372-4140-B8F8-6A2121E99F6A}
+	EndGlobalSection
+EndGlobal
