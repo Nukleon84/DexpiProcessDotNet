@@ -15,7 +15,7 @@ The intent of this repository is to serve as a baseline implementation for proto
 ## Examples
 
 The following example shows how the API can be used to construct instances of the DEXPI Process Model to describe a material template and a material stream in a Process Flow Diagram for the Tennessee-Eastman Process.
-```
+```c#
 var container = new DataContainer();
 document.DataContainer.Add(container);
 
